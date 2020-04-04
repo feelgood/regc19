@@ -12,7 +12,14 @@ export const Navbar = () => {
       }}
     >
       <NavTitle>regc19</NavTitle>
-      <div style={{ display: "flex", flexDirection: "row" }}>
+      <div
+        style={{
+          display: "flex",
+          flexDirection: "row",
+          justifyContent: "space-around",
+          width: 100,
+        }}
+      >
         <Navlink>Varför?</Navlink>
         <Navlink>Om</Navlink>
       </div>
