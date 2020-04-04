@@ -1,0 +1,39 @@
+{
+  "primary": {
+    "color": "#44AD63",
+    "onColor": "#FFF"
+  },
+  "primary_variant": {
+    "color": "#FFF",
+    "onColor": "#fff"
+  },
+  "secondary": {
+    "color": "#FFF",
+    "onColor": "#44AD63"
+  },
+  "secondary_variant": {
+    "color": "#FFF",
+    "onColor": "#FFF"
+  },
+  "tertiary": {
+    "color": "#FFF",
+    "onColor": "#6FCF97"
+  },
+  "tertiary_variant": {
+    "color": "#FFF",
+    "onColor": "#FFF"
+  },
+  "background": {
+    "color": "#FFF",
+    "onColor": "#FFF",
+    "lightOnColor": "#FFF"
+  },
+  "error": "#FFF",
+  "success": "#FFF",
+  "button_text": "#44AD63",
+  "border_color": "#314637",
+  "input_color": "#314637",
+  "header_color": "#314637",
+  "extra_text": "rgba(60, 60, 67, 0.6)",
+  "inactive_icon_color": "#314637"
+}
