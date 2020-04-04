@@ -2,6 +2,12 @@
 
 regc19 is a simple app for people to register Covid-19 symptoms in the absence of proper medical tests.
 
+It consists of (not yet!):
+
+ * A frontend app for registration. A webbapp is probably better than a mobile app. Add a CAPTCHA to restrict scripting/bot attacks.
+ * A backend API where registered data is stored.
+ * A backend API where data can be accessed. An open API. No registration needed and no API-key.
+
 # Description (English)
 
 An application where anyone can go in and register:
@@ -19,12 +25,6 @@ mobila phone mumber etc. except for the postal code.
 An additional feature is to have a self-assessment test of Covid-19 symptoms. The test would consist of 5-15 questions about symptoms and would result in an assessment score of say **90% chance, 60% chance, 30% chance** and **small risk of having Covid-19** assesment.
 
 This would enable one to get a reasonable estimate of the number of infected and where they are geographically. Of course therer would be a lot of noise and risk of faulty assements, but in the absence of proper medical tests, one would get a reasonable estimate of the spread of Covid-19.
-
-What is needed is:
-
- * A frontend app for registration. A webbapp is probably better than a mobile app. Add a CAPTCHA to restrict scripting/bot attacks.
- * A backend API where registered data is stored.
- * A backend API where data can be accessed. An open API. No registration needed and no API-key.
 
 Some success factors:
 
