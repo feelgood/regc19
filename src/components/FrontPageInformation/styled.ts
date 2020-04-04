@@ -17,12 +17,3 @@ export const InformationContainer = styled.div`
   flex-direction: column;
   justify-content: center;
 `;
-
-export const ContinueButton = styled.button`
-  background-color: #afbbb9;
-  width: 200px;
-  height: 50px;
-  font-family: "Museo";
-  font-weight: 700;
-  font-size: 15px;
-`;

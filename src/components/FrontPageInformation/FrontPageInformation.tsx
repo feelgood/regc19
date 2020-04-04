@@ -1,9 +1,7 @@
 import React from "react";
-import {
-  InformationParagraph,
-  ContinueButton,
-  InformationContainer,
-} from "./styled";
+import { InformationParagraph, InformationContainer } from "./styled";
+import { Link } from "react-router-dom";
+import Button from "../common/Button";
 
 export const FrontPageInformation = () => {
   return (
@@ -29,9 +27,9 @@ export const FrontPageInformation = () => {
           justifyContent: "center",
         }}
       >
-        <ContinueButton onClick={() => console.log("test")}>
-          Fortsätt
-        </ContinueButton>
+        <Link to="/form">
+          <Button title="Fortsätt" />
+        </Link>
       </div>
     </InformationContainer>
   );
