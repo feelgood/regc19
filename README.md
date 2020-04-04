@@ -8,6 +8,10 @@ It consists of (not yet!):
  * A backend API where registered data is stored.
  * A backend API where data can be accessed. An open API. No registration needed and no API-key.
 
+# Contributing
+
+Contact Paul at **paul dot cohen at feelgood dot se**. We also have the Slack site https://regc19.slack.com for communication.
+
 # Description (English)
 
 An application where anyone can go in and register:
