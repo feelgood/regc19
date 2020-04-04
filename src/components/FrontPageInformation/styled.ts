@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const InformationParagraph = styled.p`
   font-family: "Museo";
+  font-size: 25px;
   color: black;
   width: 400px;
   display: flex;
@@ -23,5 +24,5 @@ export const ContinueButton = styled.button`
   height: 50px;
   font-family: "Museo";
   font-weight: 700;
-  font-size: 25px;
+  font-size: 15px;
 `;
