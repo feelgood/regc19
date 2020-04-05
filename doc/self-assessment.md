@@ -16,13 +16,22 @@ Of course, some assessment tests are intended to be used to achieve a combinatio
 
 The construction of the tests also differs. Both in the design and in the questions asked. Apart from the fact that people solve the same problem in different ways, these differences are probably due to when in time the test was designed, and what was known about Corona/Covid-19 symptoms at the time the test was created. This is a fast moving situation and there also seem to be differences in symptoms in different populations due to underlying differences in population and social characteristcs.
 
+The core challenge of trackning the spread of Corona/Covid-19 is the fact that **many who are infected do not show any symptoms**. So **to get a proper picture of the spread medicial testing is essential**. The regc19 health check is simply an **effort to try to get a picture of the spread, in the absence of large scale medical testing**.
+
 ## The purpose of regc19 health check
 
 The main purpose of regc19 health check is to **build a database of completed assessment tests in order to assess the overall status and spread of the disease**.
 
 Since people are much more inclined to fill out reports if they get feedback relevant for them selves, the regc19 assessment test will be designed so the person completing the test will get immediate feedback in the form of an assessment based on their report. **But regc19 will not make any recommendation as to whether the respondee should seek medical assistance or stay at home.** Regc19 will refer the respondee to follow the local medical guidelines and recommendations from local and national authorities, and if worried contact her/his local medical services.
 
-## Inventory of self assesment tests
+## Inventory of self assessment tests
+
+Here are some self assessment tests:
+
+* SLL (Region Stockholm). URL: https://corona.sll.se/
+* Maharashtra state, India. URL: https://covid-19.maharashtra.gov.in/
+* Mayo Clinic, Minnesota, USA. URL: https://www.mayoclinic.org/covid-19-self-assessment-tool
+* Ontario, Canada. URL: https://covid-19.ontario.ca/self-assessment
 
 ## The regc19 health check
 
